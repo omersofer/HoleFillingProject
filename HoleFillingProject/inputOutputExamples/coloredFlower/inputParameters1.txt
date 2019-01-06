@@ -1,0 +1,1 @@
+inputOutputExamples\coloredFlower\coloredFlower1.jpg inputOutputExamples\coloredFlower\coloredFlower_holeMask1.jpg 10 0.000001 8

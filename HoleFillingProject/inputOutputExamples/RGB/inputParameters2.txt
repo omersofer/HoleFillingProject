@@ -1,0 +1,1 @@
+inputOutputExamples\RGB\RGB2.jpg inputOutputExamples\RGB\RGB_holeMask2.jpg 15 0.00000001 8

@@ -1,0 +1,1 @@
+inputOutputExamples\dog\dog.jpg inputOutputExamples\dog\dog_mask.jpg 15 0.0000000001 8
